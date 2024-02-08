@@ -1,0 +1,242 @@
+{
+    "unfPotions": [
+        {
+            "id": 91,
+            "name": "Unfinished guam potion (unf)"
+        },
+        {
+            "id": 93,
+            "name": "Unfinished marrentill potion (unf)"
+        },
+        {
+            "id": 95,
+            "name": "Unfinished tarromin potion (unf)"
+        },
+        {
+            "id": 97,
+            "name": "Unfinished harralander potion (unf)"
+        },
+        {
+            "id": 99,
+            "name": "Unfinished ranarr potion (unf)"
+        },
+        {
+            "id": 3002,
+            "name": "Unfinished toadflax potion (unf)"
+        },
+        {
+            "id": 12174,
+            "name": "Unfinished spirit weed potion (unf)"
+        },
+        {
+            "id": 14856,
+            "name": "Unfinished wergali potion (unf)"
+        },
+        {
+            "id": 101,
+            "name": "Unfinished irit potion (unf)"
+        },
+        {
+            "id": 103,
+            "name": "Unfinished avantoe potion (unf)"
+        },
+        {
+            "id": 105,
+            "name": "Unfinished kwuarm potion (unf)"
+        },
+        {
+            "id": 3004,
+            "name": "Unfinished snapdragon potion (unf)"
+        },
+        {
+            "id": 107,
+            "name": "Unfinished cadantine potion (unf)"
+        },
+        {
+            "id": 2481,
+            "name": "Unfinished lantadyme potion (unf)"
+        },
+        {
+            "id": 109,
+            "name": "Unfinished dwarf weed potion (unf)"
+        },
+        {
+            "id": 111,
+            "name": "Unfinished torstol potion (unf)"
+        },
+        {
+            "id": 21628,
+            "name": "Unfinished fellstalk potion (unf)"
+        }
+    ],
+    "secondaryIngredient": [
+        {
+            "id": 3138,
+            "name": "Potato cactus"
+        },
+        {
+            "id": 245,
+            "name": "Wine of Zamorak"
+        },
+        {
+            "id": 223,
+            "name": "Red spiders' eggs"
+        },
+        {
+            "id": 239,
+            "name": "White berries"
+        },
+        {
+            "id": 221,
+            "name": "Eye of newt"
+        },
+        {
+            "id": 225,
+            "name": "Limpwurt root"
+        },
+        {
+            "id": 231,
+            "name": "Snape grass"
+        },
+        {
+            "id": 43997,
+            "name": "Spider venom"
+        },
+        {
+            "id": 235,
+            "name": "Unicorn horn dust"
+        },
+        {
+            "id": 1975,
+            "name": "Chocolate dust"
+        },
+        {
+            "id": 247,
+            "name": "Jangerberries"
+        },
+        {
+            "id": 6693,
+            "name": "Crushed bird's nest"
+        },
+        {
+            "id": 6018,
+            "name": "Poison ivy berries"
+        },
+        {
+            "id": 3138,
+            "name": "Potato cactus"
+        },
+        {
+            "id": 241,
+            "name": "Blue dragon scale"
+        },
+        {
+            "id": 9736,
+            "name": "Goat horn dust"
+        },
+        {
+            "id": 6049,
+            "name": "Yew roots"
+        },
+        {
+            "id": 6051,
+            "name": "Magic roots"
+        },
+        {
+            "id": 2970,
+            "name": "Mort myre fungus"
+        },
+        {
+            "id": 10111,
+            "name": "Kebbit teeth dust"
+        },
+        {
+            "id": 6694,
+            "name": "Crushed nest"
+        },
+        {
+            "id": 15775,
+            "name": "Primal extract"
+        },
+        {
+            "id": 241,
+            "name": "Blue dragon scale"
+        }
+    ],
+    "grimyHerbs": [
+        {
+            "name": "Grimy guam",
+            "id": 199
+        },
+        {
+            "name": "Grimy marrentill",
+            "id": 201
+        },
+        {
+            "name": "Grimy tarromin",
+            "id": 203
+        },
+        {
+            "name": "Grimy harralander",
+            "id": 205
+        },
+        {
+            "name": "Grimy ranarr",
+            "id": 207
+        },
+        {
+            "name": "Grimy toadflax",
+            "id": 3049
+        },
+        {
+            "name": "Grimy spirit weed",
+            "id": 12172
+        },
+        {
+            "name": "Grimy wergali",
+            "id": 14854
+        },
+        {
+            "name": "Grimy irit",
+            "id": 209
+        },
+        {
+            "name": "Grimy avantoe",
+            "id": 211
+        },
+        {
+            "name": "Grimy kwuarm",
+            "id": 213
+        },
+        {
+            "name": "Grimy snapdragon",
+            "id": 3051
+        },
+        {
+            "name": "Grimy cadantine",
+            "id": 215
+        },
+        {
+            "name": "Grimy lantadyme",
+            "id": 2485
+        },
+        {
+            "name": "Grimy dwarf weed",
+            "id": 217
+        },
+        {
+            "name": "Grimy torstol",
+            "id": 219
+        },
+        {
+            "name": "Grimy fellstalk",
+            "id": 21626
+        }
+    ],
+    "presets": [
+        {"Clean": 8},
+        {"MakeUnfPots": 7},
+        {"MakePotions": 9},
+        {"PortableRenew": 6}
+    ]
+}
